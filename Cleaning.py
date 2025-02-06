@@ -11,20 +11,6 @@ from sklearn.preprocessing import LabelEncoder
 import re
 import seaborn as sns
 
-import pandas as pd
-
-import pandas as pd
-
-# Open the files and check df
-import pandas as pd
-
-# Open the files and check df
-df1 = pd.read_csv('thesis DSS.csv')
-df2 = pd.read_csv('age + contract.csv')
-df3 = pd.read_csv('Mutatiegraad per SAP complex 2010.csv', delimiter=';')
-df4 = pd.read_csv('Mutatiegraad per VHE 2010.csv', delimiter=';')
-
-import pandas as pd
 
 # Read the CSV files into dataframes
 df1 = pd.read_csv('thesis DSS.csv')
